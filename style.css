@@ -2,5 +2,6 @@ bory{
     background-color: #ff4444;
     font-size: large;
     font-style: italic;
-    
+    text-align: center;
+    width: fit-content;
 }
